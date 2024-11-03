@@ -1,0 +1,13 @@
+/NIDS/ModelTraining/log
+/NIDS/ModelTraining/save
+*.log
+*.csv
+*.pth
+*.pkl
+*.pyc
+*.zip
+*.tsv
+*.png
+*.pdf
+*test*
+*.xz
