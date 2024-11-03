@@ -1,0 +1,14 @@
+torch
+numpy
+pandas
+scikit-learn
+tqdm
+matplotlib
+seaborn
+scipy
+tensorboard
+mlxtend
+lightgbm
+xgboost
+catboost
+imbalanced-learn
